@@ -1,5 +1,4 @@
-{
-  "employees": [
+ [
     {
       "firstname": "Isaac",
       "lastname": "Anasonye",
@@ -57,4 +56,3 @@
       "country": "London"
     }
   ]
-}
